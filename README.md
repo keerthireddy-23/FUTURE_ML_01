@@ -8,8 +8,6 @@ It helps businesses make better decisions in:
 - Staffing
 - Promotions
 
----
-
 ##  Features
 - Data cleaning and preprocessing
 - Time-based feature engineering
@@ -17,14 +15,11 @@ It helps businesses make better decisions in:
 - Random Forest model for prediction
 - Future sales forecasting visualization
 
----
-
 ##  Results
--  MAE: ~2.3% 🎯
+-  MAE: ~2.3% 
 
 The model accurately predicts future sales trends.
 
----
 
 ##  Techniques Used
 - Time Series Analysis
@@ -38,25 +33,19 @@ The model accurately predicts future sales trends.
 - Scikit-learn
 - Matplotlib
 
----
 
 ##  Output
 The model generates future sales forecasts with high accuracy, helping businesses plan effectively.
 
----
 
 ##  Business Impact
 - Reduces overstocking
 - Prevents stock shortages
 - Improves decision-making
 
----
-
 ##  Dataset
 Used Store Sales dataset from Kaggle:
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting
-
----
 
 ##  Author
 K. Keerthi Reddy
